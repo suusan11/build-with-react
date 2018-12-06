@@ -1,2 +1,9 @@
-.idea/
+.idea/jsLibraryMappings.xml
+.idea/vcs.xml
 .idea/workspace.xml
+.idea/build with react.iml
+.idea/misc.xml
+
+node_modules/
+
+package-lock.json
