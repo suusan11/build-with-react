@@ -26,5 +26,5 @@ var ParentComponent = React.createClass({
 
 ReactDOM.render(
     <ParentComponent />,
-    document.getElementById("container");
+    document.getElementById("container")
 );

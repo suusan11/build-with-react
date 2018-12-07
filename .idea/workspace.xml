@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3e521f1-2b7d-4fa7-98cf-2933e63afa5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise-Event/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise-Event/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise-Event/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise-Event/script.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -196,18 +194,18 @@
       <option name="presentableId" value="Default" />
       <updated>1544070160777</updated>
       <workItem from="1544070162051" duration="2027000" />
-      <workItem from="1544159104656" duration="1500000" />
+      <workItem from="1544159104656" duration="1642000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3527000" />
+    <option name="totallyTimeSpent" value="3669000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
